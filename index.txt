@@ -1,0 +1,17 @@
+2:"$Sreact.fragment"
+3:I[53762,["612","static/chunks/71b1076a-201b4d6cc2dddce7.js","376","static/chunks/376-f9b092ebf52ce949.js","851","static/chunks/851-4a112dcdf2a13daf.js","177","static/chunks/app/layout-90dcf40f5d055f04.js"],"NextUIProvider"]
+4:I[15244,[],""]
+5:I[43866,[],""]
+6:I[57033,[],"ClientPageRoot"]
+7:I[82748,["376","static/chunks/376-f9b092ebf52ce949.js","37","static/chunks/37-e0ee591c2f1debde.js","974","static/chunks/app/page-5500e3ea45434610.js"],"default"]
+a:I[86213,[],"OutletBoundary"]
+c:I[86213,[],"MetadataBoundary"]
+e:I[86213,[],"ViewportBoundary"]
+10:I[34835,[],""]
+1:HL["/_next/static/css/43d47e0181080b7f.css","style"]
+0:{"P":null,"b":"prgTMD-QFIQ611ZTd7zrt","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$2","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/43d47e0181080b7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased min-h-screen font-Fredoka","children":[["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@400","rel":"stylesheet"}],["$","$L3",null,{"className":"h-screen min-h-screen md:p-6","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}]]}],{"children":["__PAGE__",["$","$2","c",{"children":[["$","$L6",null,{"Component":"$7","searchParams":{},"params":{},"promises":["$@8","$@9"]}],null,["$","$La",null,{"children":"$Lb"}]]}],{},null]},null],["$","$2","h",{"children":[null,["$","$2","TFKHsIXKfNAocO5oIuOeN",{"children":[["$","$Lc",null,{"children":"$Ld"}],["$","$Le",null,{"children":"$Lf"}],null]}]]}]]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
+8:{}
+9:{}
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"LawCare"}],["$","meta","2",{"name":"description","content":"Inovatyvi programa, sukurta padėti rasti teismo praktiką, atitinkančią jų specifines problemas dirbtinio intelekto pagalba."}]]
+b:null
